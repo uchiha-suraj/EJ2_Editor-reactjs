@@ -1,4 +1,4 @@
-# EJ2_Editor
+## EJ2_Editor
 
      ej2-editor
 
